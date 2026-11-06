@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/DORUK_CAGAN/">
-    <img src="https://leetcard.jacoblin.cool/DORUK_CAGAN?theme=light&font=Lato" alt="LeetCode stats for DORUK_CAGAN" />
+  <a href="https://leetcode.com/u/4CEDhzftUI/">
+    <img src="https://leetcard.jacoblin.cool/4CEDhzftUI?theme=light&font=Lato" alt="LeetCode stats" />
   </a>
 </p>
